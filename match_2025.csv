@@ -1,4 +1,4 @@
- game_id,date,home_club_id,away_club_id,home_club_manager_name,away_club_manager_name,stadium,attendance,referee,home_club_name,away_club_name,competition_type
+game_id,date,home_club_id,away_club_id,home_club_manager_name,away_club_manager_name,stadium,attendance,referee,home_club_name,away_club_name,competition_type
 4635006,2025-08-15,273,244,Habib Beye,Roberto De Zerbi,Roazhon Park,28360.0,Jérémie Pignard,Stade Rennais Football Club,Olympique de Marseille,domestic_league
 4635007,2025-08-16,826,1041,Pierre Sage,Paulo Fonseca,Stade Bollaert-Delelis,38137.0,Romain Lissorgue,Racing Club de Lens,Olympique Lyonnais,domestic_league
 4635008,2025-08-16,417,415,Franck Haise,Carles Martínez,Allianz Riviera,23212.0,Thomas Léonard,Olympique Gymnaste Club Nice Côte d'Azur,Toulouse Football Club,domestic_league
